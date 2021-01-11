@@ -1,5 +1,8 @@
 _repo: A-Selection-from-the-Norse-Tales-for-the-Use-of-Children_64189
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64189-h/images/cover.jpg
 creator:
   author:
     agent_name: Dasent, George Webbe, Sir
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2936
     wikipedia: http://en.wikipedia.org/wiki/George_Webbe_Dasent
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64189#A-Selection-from-the-Norse-Tales-for-the-Use-of-Children
 gutenberg_issued: '2020-12-31'
 gutenberg_type: Text
 identifiers:
