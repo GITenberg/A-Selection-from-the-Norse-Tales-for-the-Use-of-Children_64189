@@ -1,0 +1,24 @@
+_repo: A-Selection-from-the-Norse-Tales-for-the-Use-of-Children_64189
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dasent, George Webbe, Sir
+    alias: Dasent, G. W.
+    birthdate: 1817
+    deathdate: 1896
+    gutenberg_agent_id: '2936'
+    url: http://www.gutenberg.org/2009/agents/2936
+    wikipedia: http://en.wikipedia.org/wiki/George_Webbe_Dasent
+description: ''
+gutenberg_issued: '2020-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64189'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Selection from the Norse Tales for the Use of Children
+url: http://www.gutenberg.org/ebooks/64189
